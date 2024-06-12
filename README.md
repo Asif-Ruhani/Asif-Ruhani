@@ -10,7 +10,7 @@ Skills: C / C++ / JAVA / Python / HTML / CSS
 - 🌱 I’m currently learning Java 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Asif-Ruhani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asif-ruhani-b53884251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/asif.ruhani.58)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Asif-Ruhani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asif-ruhani-b53884251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='80'>](https://www.facebook.com/asif.ruhani.58)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Ruhani)](https://github.com/anuraghazra/github-readme-stats)
 
