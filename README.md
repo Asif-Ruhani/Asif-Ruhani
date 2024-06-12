@@ -2,7 +2,7 @@
 #### Studying at Computer Science and Engineering(CSE)
 ![Studying at Computer Science and Engineering(CSE)](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/441518387_1116428886288421_4876926325845436158_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeELKExSWof10Hb3uvTXImZ_lyd8foobKsiXJ3x-ihsqyOC6x9wBk4969iAInNPNi5wvnCUcXM8YGZeYdzSv9pbq&_nc_ohc=I3xueSsDywsQ7kNvgELO-xw&_nc_ht=scontent.fdac149-1.fna&oh=00_AYARPjNzkMH4vsCsCMyUbbuWebHCONllqo07QlWyDSCgxA&oe=666F50AB)
 
-a passionate Computer Science & Engineering student, thrives at the intersection of innovation and technology. With a keen eye for coding and a flair for problem-solving, I am dedicated to pushing the boundaries of what's possible. My journey in CSE is driven by curiosity, creativity, and a relentless pursuit of excellence. Eager to make a meaningful impact, I am continually honing my skills and embracing new challenges. Join me as I navigate the dynamic world of technology, one line of code at a time.
+I'm a passionate Computer Science & Engineering student, thrives at the intersection of innovation and technology. With a keen eye for coding and a flair for problem-solving, I am dedicated to pushing the boundaries of what's possible. My journey in CSE is driven by curiosity, creativity, and a relentless pursuit of excellence. Eager to make a meaningful impact, I am continually honing my skills and embracing new challenges. Join me as I navigate the dynamic world of technology, one line of code at a time.
 
 Skills: C / C++ / JAVA / Python / HTML / CSS
 
