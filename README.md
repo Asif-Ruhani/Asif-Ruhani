@@ -4,6 +4,7 @@
 
 I'm a passionate Computer Science & Engineering student, thrives at the intersection of innovation and technology. With a keen eye for coding and a flair for problem-solving, I am dedicated to pushing the boundaries of what's possible. My journey in CSE is driven by curiosity, creativity, and a relentless pursuit of excellence. Eager to make a meaningful impact, I am continually honing my skills and embracing new challenges. Join me as I navigate the dynamic world of technology, one line of code at a time.
 
+### Skills
 ![C](https://img.shields.io/badge/C-007acc.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ff5722.svg?style=for-the-badge&logo=java&logoColor=white)
