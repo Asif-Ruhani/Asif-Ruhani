@@ -6,17 +6,26 @@ I'm a passionate Computer Science & Engineering student, thrives at the intersec
 
 ### Skills
 ![C](https://img.shields.io/badge/C-007acc.svg?style=for-the-badge&logo=c&logoColor=white)
+&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-ff5722.svg?style=for-the-badge&logo=java&logoColor=white)
+&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=yellow)
+&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-264de4.svg?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/React-61dafb.svg?style=for-the-badge&logo=react&logoColor=black)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
 ![Working on](https://img.shields.io/badge/Currently%20Working%20on-Research%20Project-orange) &nbsp;&nbsp;&nbsp; ![Learning](https://img.shields.io/badge/Learning-React-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
