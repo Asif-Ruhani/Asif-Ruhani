@@ -44,4 +44,11 @@ I am passionate about learning modern technologies and contributing to impactful
 
 
 
+> ## 🔬 I am currently working on a research project
+> ## 💻 I am currently learning React
+
+
+
+
+
 
