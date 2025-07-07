@@ -10,12 +10,12 @@ Skills: C / C++ / JAVA / Python / HTML / CSS / JavaScript / React
 - 🌱 I’m currently learning React
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style='height:30px;width:30px;margin-right:30px;'>](https://github.com/Asif-Ruhani)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' style='height:30px;width:30px;margin-right:30px;'>](https://www.linkedin.com/in/asif-ruhani-b53884251/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' style='height:30px;width:30px;margin-right:30px;'>](https://www.facebook.com/asif.ruhani.58)
-&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style='height:30px;width:30px;'>](https://github.com/Asif-Ruhani)
+&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' style='height:30px;width:30px;'>](https://www.linkedin.com/in/asif-ruhani-b53884251/)
+&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' style='height:30px;width:30px;'>](https://www.facebook.com/asif.ruhani.58)
+&nbsp;&nbsp;
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Ruhani)](https://github.com/anuraghazra/github-readme-stats)
