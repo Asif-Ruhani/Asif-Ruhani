@@ -6,8 +6,8 @@ I'm a passionate Computer Science & Engineering student, thrives at the intersec
 
 Skills: C / C++ / JAVA / Python / HTML / CSS / JavaScript / React
 
-![Working on](https://img.shields.io/badge/Working%20on-Research%20Project-orange)
-![Learning](https://img.shields.io/badge/Learning-React-blue)
+![Working on](https://img.shields.io/badge/Working%20on-Research%20Project-orange) &nbsp;&nbsp;&nbsp; ![Learning](https://img.shields.io/badge/Learning-React-blue)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style='height:30px;width:30px;'>](https://github.com/Asif-Ruhani)
