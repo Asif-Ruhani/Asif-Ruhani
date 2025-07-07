@@ -27,25 +27,14 @@ Skills: C / C++ / JAVA / Python / HTML / CSS / JavaScript / React
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Asif-Ruhani)  
 
 
-![Research](https://img.shields.io/badge/Research-Ongoing-orange)
+![Ongoing](https://img.shields.io/badge/Ongoing-Research-orange)
 ![Learning](https://img.shields.io/badge/Learning-React-blue)
 
 
 
 
 
-### 📝 Current Activities
 
-![Research](https://img.shields.io/badge/Research-Project-orange)
-![Learning](https://img.shields.io/badge/Learning-React-blue)
-
-I am passionate about learning modern technologies and contributing to impactful projects.
-
-
-
-![Research](https://img.shields.io/badge/%F0%9F%94%AC-Research-Ongoing-orange)
-
-![Learning](https://img.shields.io/badge/%F0%9F%92%BB-Learning-React-blue)
 
 
 
