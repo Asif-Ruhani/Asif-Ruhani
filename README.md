@@ -4,16 +4,15 @@
 
 I'm a passionate Computer Science & Engineering student, thrives at the intersection of innovation and technology. With a keen eye for coding and a flair for problem-solving, I am dedicated to pushing the boundaries of what's possible. My journey in CSE is driven by curiosity, creativity, and a relentless pursuit of excellence. Eager to make a meaningful impact, I am continually honing my skills and embracing new challenges. Join me as I navigate the dynamic world of technology, one line of code at a time.
 
-### Skills
+![C](https://img.shields.io/badge/C-007acc.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff5722.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb.svg?style=for-the-badge&logo=react&logoColor=black)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 
 ![Working on](https://img.shields.io/badge/Currently%20Working%20on-Research%20Project-orange) &nbsp;&nbsp;&nbsp; ![Learning](https://img.shields.io/badge/Learning-React-blue)
