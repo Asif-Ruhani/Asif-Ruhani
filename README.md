@@ -43,9 +43,10 @@ I am passionate about learning modern technologies and contributing to impactful
 
 
 
+![Research](https://img.shields.io/badge/%F0%9F%94%AC-Research-Ongoing-orange)
 
-> ## 🔬 I am currently working on a research project
-> ## 💻 I am currently learning React
+![Learning](https://img.shields.io/badge/%F0%9F%92%BB-Learning-React-blue)
+
 
 
 
