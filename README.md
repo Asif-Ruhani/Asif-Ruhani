@@ -4,13 +4,13 @@
 
 I'm a passionate Computer Science & Engineering student, thrives at the intersection of innovation and technology. With a keen eye for coding and a flair for problem-solving, I am dedicated to pushing the boundaries of what's possible. My journey in CSE is driven by curiosity, creativity, and a relentless pursuit of excellence. Eager to make a meaningful impact, I am continually honing my skills and embracing new challenges. Join me as I navigate the dynamic world of technology, one line of code at a time.
 
-Skills: C / C++ / JAVA / Python / HTML / CSS
+Skills: C / C++ / JAVA / Python / HTML / CSS / JavaScript / React
 
 - 🔭 I’m currently working on research 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning React
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Asif-Ruhani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asif-ruhani-b53884251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/asif.ruhani.58)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>](https://github.com/Asif-Ruhani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/asif-ruhani-b53884251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='10'>](https://www.facebook.com/asif.ruhani.58)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Ruhani)](https://github.com/anuraghazra/github-readme-stats)
 
