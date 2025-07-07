@@ -6,7 +6,7 @@ I'm a passionate Computer Science & Engineering student, thrives at the intersec
 
 Skills: C / C++ / JAVA / Python / HTML / CSS / JavaScript / React
 
-![Working on](https://img.shields.io/badge/Working%20on-Research%20Project-orange) &nbsp;&nbsp;&nbsp; ![Learning](https://img.shields.io/badge/Learning-React-blue)
+![Working on](https://img.shields.io/badge/Currently%20Working%20on-Research%20Project-orange) &nbsp;&nbsp;&nbsp; ![Learning](https://img.shields.io/badge/Learning-React-blue)
 
 
 
