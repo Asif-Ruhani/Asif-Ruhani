@@ -26,3 +26,9 @@ Skills: C / C++ / JAVA / Python / HTML / CSS / JavaScript / React
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Asif-Ruhani)  
 
+
+<div style="border: 2px solid orange, border-radius: 10px, height: 400px, width: 400px">
+<h2>I am currently working on research project</h2>
+<h2>I am currently learning React </h2> 
+</div>
+
